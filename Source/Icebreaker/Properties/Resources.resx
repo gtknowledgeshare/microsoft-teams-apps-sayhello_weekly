@@ -146,7 +146,7 @@
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
-    <value>You will be notified by MS Teams message of your pairing on the first Monday of every week @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
+    <value>You will be notified by MS Teams message of your pairing on Monday of every week @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
     <comment>Part 3 of the install message with the name of the installer known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart1" xml:space="preserve">
@@ -158,12 +158,12 @@
     <comment>Part 2 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
-    <value>You will be notified by MS Teams message of your pairing on the first Monday of every week @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
+    <value>You will be notified by MS Teams message of your pairing on Monday of every week @10am. To opt out of **Say Hello**, simply click on ‘Pause Pairings’, you can resume whenever you feel like it.</value>
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
     <value>**Say Hello** is a bot in the '{1}' team, that pairs you with someone different each week who you will have a 10 minute chat with at a time that suits you both. **Say Hello** to {2} and set up some time to chat!</value>
-    <comment>First part of the pairing up card main content</comment>
+    <comment>part of the pairing up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
     <value></value>
